@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Midterm App</string>
+
+
+    <string name="text_ronaldo">Ronaldo’s father, José Dinis Aveiro, was the equipment manager for the local club Andorinha. (The name Ronaldo was added to Cristiano’s name in honour of his father’s favourite movie actor, Ronald Reagan, who was U.S. president at the time of Cristiano’s birth.) At age 15 Ronaldo was diagnosed with a heart condition that necessitated surgery, but he was sidelined only briefly and made a full recovery. He first played for Clube Desportivo Nacional of Madeira and then transferred to Sporting Clube de Portugal (known as Sporting Lisbon), where he played for that club’s various youth teams before making his debut on Sporting’s first team in 2002.</string>
+    <string name="text_aguero">My Midterm App</string>
+    <string name="text_bale">My Midterm App</string>
+    <string name="text_neymar">My Midterm App</string>
+    <string name="text_messi">My Midterm App</string>
+    <string name="text_higuain">My Midterm App</string>
+    <string name="text_griezmann">My Midterm App</string>
+    <string name="text_lewandowski">My Midterm App</string>
+    <string name="text_ronaldinho">My Midterm App</string>
+    <string name="text_mbappe">My Midterm App</string>
+    <string name="text_salah">My Midterm App</string>
+</resources>

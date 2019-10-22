@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="#FFECECEC"
+    android:orientation="horizontal"
+
+    android:weightSum="1"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_weight="0.2"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+<!--        <ImageView-->
+<!--            android:id="@+id/email_images"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="230dp"-->
+<!--            android:src="@drawable/messi"-->
+<!--            android:padding="10dp"/>-->
+
+        <TextView
+            android:id="@+id/email_title"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="Blah blah blah ..."
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/email_description"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:text="sfsfasfsgasga..." />
+
+        <TextView
+            android:id="@+id/email_time"
+            android:layout_width="match_parent"
+            android:layout_height="16dp"
+            android:text="32"
+            android:gravity="end"/>
+    </LinearLayout>
+
+
+</LinearLayout>
